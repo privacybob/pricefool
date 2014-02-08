@@ -1,9 +1,9 @@
 pricefool
 =========
 
-Pricefool is a project based on [Yii framework](http://yiiframework.com). This project uses a slightly modified version of [YAAS](https://github.com/jefftulsa/yaas), provided by @jefftulsa
+Pricefool is a project based on [Yii framework](http://yiiframework.com). This project uses a slightly modified version of [YAAS](https://github.com/jefftulsa/yaas), provided by @jefftulsa.
 
-When this project is finished it will have the following features:
+When this project is finished the following features will be available (managable via an Administration Panel):
 
 - Merchants
 - Merchant Reviews
