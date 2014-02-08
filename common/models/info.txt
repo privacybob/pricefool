@@ -1,0 +1,1 @@
+Place model class files, specific to the backend application, in this directory.

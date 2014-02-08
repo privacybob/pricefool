@@ -1,0 +1,1 @@
+Place any needed, publicly accessible application images in this directory.

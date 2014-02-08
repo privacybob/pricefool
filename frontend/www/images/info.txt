@@ -1,0 +1,1 @@
+Add application image assets to this directory as needed

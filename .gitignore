@@ -1,3 +1,5 @@
-assets/
-protected/runtime/
+frontend/www/assets/
+backend/www/assets
+backend/runtime/
+frontend/runtime/
 themes/classic/views/

@@ -1,0 +1,1 @@
+All of our Yii db migrations will be written to this directory, common to all of our other applications

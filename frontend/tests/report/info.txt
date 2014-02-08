@@ -1,0 +1,1 @@
+Testing frameworks can write out testing reports to this directory if configured to do so.
